@@ -1,4 +1,3 @@
-# Strada
 # strada.one
 
 Что такое Strada?
